@@ -21,7 +21,7 @@ namespace WindowsFormsApplication1
 
         private void newToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("新規作成");
+            MessageBox.Show("新規作成します");
             textBox1.Text = "";
         }
 
